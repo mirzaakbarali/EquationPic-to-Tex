@@ -1,4 +1,4 @@
-### This Python code produces LaTeX code for the equation images you provide. 
+## This Python code produces LaTeX code for the equation images you provide. 
 
 Put all the equation pictures in the same folder as this python file and set the folder path as ```folder_path = './'```.
 
